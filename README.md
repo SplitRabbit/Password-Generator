@@ -10,3 +10,4 @@ The deployed application is live [here](https://splitrabbit.github.io/Password-G
 To use the project, simply click the button which will start a series of prompts in order to identify what characters you would like within your password.
 Depending on your answers, it will randomly generate a password. 
 
+[Screenshot of Deployed Application](./assets/DeployedWebpage.png)
