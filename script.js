@@ -1,4 +1,3 @@
-// Assignment code here
 //define variables
 var lengthcheck;
 var uppercasecheck;
@@ -8,7 +7,10 @@ var specialcheck;
 // //function for user determined password length
 function asklength(){
   lengthcheck = prompt("How long do you want your password? (Must be 8-128 characters)")
-      if (lengthcheck<8){
+      if(lengthcheck === null){
+        return;
+      } 
+      else if(lengthcheck<8){
         alert("Too short!");
         asklength();
       }
@@ -22,7 +24,7 @@ function asklength(){
       }
       else{
         return lengthcheck;
-      }
+      };
 }
 
 // //function for user determined uppercase letter inclusion
