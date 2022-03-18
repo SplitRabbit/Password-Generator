@@ -5,7 +5,7 @@ This application is a simple html,javascript, and css file that creates a random
 2. index.html contains the baseline elements of the webpage
 3. style.css includes all of the visual elements of the page.
 
-The deployed application is live at:
+The deployed application is live [here](https://splitrabbit.github.io/Password-Generator/)
 
 To use the project, simply click the button which will start a series of prompts in order to identify what characters you would like within your password.
 Depending on your answers, it will randomly generate a password. 
