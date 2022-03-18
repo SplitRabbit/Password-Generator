@@ -1,3 +1,4 @@
+<img width="1713" alt="DeployedWebpage" src="https://user-images.githubusercontent.com/90064411/159075431-72f524cf-5e36-4605-9fc8-206895a68230.png">
 # Password-Generator
 This application is a simple html,javascript, and css file that creates a random password depending on the input of several prompts.
 
